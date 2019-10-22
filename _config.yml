@@ -1,0 +1,20 @@
+# Site settings
+name: Liang Ou
+location: UTS
+company: UTS
+position: student
+github: https://github.com/ouliang0128
+facebook:
+phone: 0411853109
+email: ouliang0128@outlook.com
+
+#baseurl: "/resume.io"
+baseurl: "https://ouliang0128.github.io/"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
