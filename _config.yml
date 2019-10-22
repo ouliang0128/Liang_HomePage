@@ -9,7 +9,7 @@ phone: 0411853109
 email: ouliang0128@outlook.com
 
 #baseurl: "/resume.io"
-baseurl: "/resume.io"
+baseurl: "https://ouliang0128.github.io/Liang_HomePage/"
 
 permalink: /:year/:month/:day/:title/
 
