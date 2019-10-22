@@ -1,7 +1,7 @@
 # Site settings
 name: Liang Ou
 location: UTS Housing, Yura Mudang residence, 1501, 702-730 Harris Street, Ultimo NSW 2007, Australia
-company: (University of Technology Sydney)UTS
+company: University of Technology Sydney (UTS)
 position: Student
 github: https://github.com/ouliang0128
 facebook:
@@ -9,7 +9,7 @@ phone: 0411853109
 email: ouliang0128@outlook.com
 
 #baseurl: "/resume.io"
-baseurl: "https://github.com/ouliang0128/Liang_HomePage"
+baseurl: "https://ouliang0128.github.io/"
 
 permalink: /:year/:month/:day/:title/
 
