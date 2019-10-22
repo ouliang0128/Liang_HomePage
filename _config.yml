@@ -1,5 +1,5 @@
 # Site settings
-name: 董小姐
+name: Liang Ou
 location: 大连
 company: IBM
 position: Java开发工程师
@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 1580424XXXX
 email: xxxx@xxx.com
 
-baseurl: "/resume.io"
+baseurl: "https://ouliang0128.github.io/Liang_HomePage/"
 
 permalink: /:year/:month/:day/:title/
 
